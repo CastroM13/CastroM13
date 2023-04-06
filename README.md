@@ -1,16 +1,33 @@
-### Hi there 👋
+# Sample Markdown
 
-<!--
-**CastroM13/CastroM13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is some basic, sample markdown.
 
-Here are some ideas to get you started:
+## Second Heading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * Unordered lists, and:
+  1. One
+  1. Two
+  1. Three
+ * More
+
+> Blockquote
+
+And **bold**, *italics*, and even *italics and later **bold***. Even ~~strikethrough~~. [A link](https://markdowntohtml.com) to somewhere.
+
+And code highlighting:
+
+```js
+var foo = 'bar';
+
+function baz(s) {
+   return foo + ':' + s;
+}
+```
+
+Or inline code like `var foo = 'bar';`.
+
+Or an image of bears
+
+![bears](http://placebear.com/200/200)
+
+The end ...
